@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes done by dev1
+=======
+changes done by dev2
+>>>>>>> ed142ab (cc modified by dev2)
